@@ -11,7 +11,7 @@ Will create a multi-language text-to-speech audiobook in .wav
     fr: Meurs, Macbeth, le connard!
     
     en: Thou shalt not kill me, imbecile
-    fr: baise mon fesse, imbecile!
+    fr: baise ma fesse malodorante francaise, imbecile!
 
 ### Config
 
