@@ -4,14 +4,14 @@ Will create a multi-language text-to-speech audiobook in .wav
 
 ### Input text file
 
- en: To be or not to be?
- fr: Etre ou non etre, merde!
- 
- en: Die, Macbeth!
- fr: Meurs, Macbeth, le connard!
- 
- en: Thou shalt not kill me, imbecile
- fr: baise mon fesse, imbecile!
+    en: To be or not to be?
+    fr: Etre ou non etre, merde!
+    
+    en: Die, Macbeth!
+    fr: Meurs, Macbeth, le connard!
+    
+    en: Thou shalt not kill me, imbecile
+    fr: baise mon fesse, imbecile!
 
 ### Config
 
